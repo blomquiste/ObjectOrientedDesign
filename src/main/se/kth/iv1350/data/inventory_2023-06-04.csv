@@ -1,0 +1,12 @@
+ITEM ID;NAME;DESCRIPTION;PRICE;VAT RATE GROUP CODE;IN STORE;SOLD
+0;;;1.0;1;1;0
+1;Banana;Dole, organic;5.0;2;1;2
+2;Apple;Eva-Marie, organic;4.0;2;18;2
+3;Coffe;Johan & Nyström;80.0;2;50;0
+4;Juice;Råsaft;43.0;2;10;0
+5;Pizza;Annamma 450 gram;45.0;2;-3;1
+6;Detergent;Grumme 0.5 l;19.0;1;25;0
+7;Chips;OLW, salted;30.0;2;44;2
+8;Fanta;Softdrink 1 l;25.0;2;28;2
+9;Snickers;Candybar;12.0;2;15;0
+10;Salomon;Norwegian fishdeli;100.0;2;3;0

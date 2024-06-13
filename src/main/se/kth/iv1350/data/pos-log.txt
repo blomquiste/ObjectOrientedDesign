@@ -1,0 +1,276 @@
+22 maj 2023 22:35:45, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:80)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:45)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:92)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:74)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+22 maj 2023 22:35:45, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:95)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:74)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:80)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:45)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:92)
+	... 3 more
+
+
+22 maj 2023 23:41:06, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:80)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:45)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:92)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:74)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+22 maj 2023 23:41:06, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:95)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:74)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:80)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:45)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:92)
+	... 3 more
+
+
+23 maj 2023 11:07:24, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:80)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:45)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+23 maj 2023 11:07:24, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:80)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:45)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+23 maj 2023 11:29:36, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+23 maj 2023 11:29:36, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+23 maj 2023 11:30:29, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+23 maj 2023 11:30:29, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+23 maj 2023 11:40:10, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+23 maj 2023 11:40:10, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+23 maj 2023 11:43:18, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+23 maj 2023 11:43:18, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+1 juni 2023 16:11:34, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:58)
+	at se.kth.iv1350.startup.Main.main(Main.java:30)
+
+
+1 juni 2023 16:11:34, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:58)
+	at se.kth.iv1350.startup.Main.main(Main.java:30)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+1 juni 2023 17:13:10, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:58)
+	at se.kth.iv1350.startup.Main.main(Main.java:30)
+
+
+1 juni 2023 17:13:10, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:58)
+	at se.kth.iv1350.startup.Main.main(Main.java:30)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+4 juni 2023 23:11:05, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:58)
+	at se.kth.iv1350.startup.Main.main(Main.java:29)
+
+
+4 juni 2023 23:11:05, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:58)
+	at se.kth.iv1350.startup.Main.main(Main.java:29)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+5 juni 2023 21:35:28, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+5 juni 2023 21:35:28, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
+5 juni 2023 21:36:05, Exception was thrown: Detailed message about database fail
+se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+
+
+5 juni 2023 21:36:05, Exception was thrown: No connection to inventory system. Try again.
+se.kth.iv1350.controller.OperationFailedException: No connection to inventory system. Try again.
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:93)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.view.View.hardKodadeGrejerWithFailureAndErrors(View.java:62)
+	at se.kth.iv1350.startup.Main.main(Main.java:28)
+Caused by: se.kth.iv1350.integration.ItemRegistryException: Detailed message about database fail
+	at se.kth.iv1350.integration.ItemRegistry.getItemInfo(ItemRegistry.java:76)
+	at se.kth.iv1350.model.Sale.addItem(Sale.java:44)
+	at se.kth.iv1350.controller.Controller.registerItem(Controller.java:90)
+	... 3 more
+
+
